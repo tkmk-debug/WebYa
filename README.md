@@ -1,6 +1,6 @@
 # MojWeb ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/PaperMC/Paper/Build%20Paper/master)  
 
-Ahoj! 
+Ahoj!  
 Vitaj na **GitHub** stránke mojej _Web Stránky_.  
 Je to **Open-Source** projekt, ktorý _môžeš_ upravovať.  
 Ak nájdeš nápad na zlepšenie, pošli **Pull Request.**  
