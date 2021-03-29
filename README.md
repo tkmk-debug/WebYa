@@ -15,20 +15,20 @@ Ak nájdeš nápad na zlepšenie, pošli **Pull Request.**
 
 ---  
 
-Projekt si cez Git stiahneš pomocou príkazu: 
-**Windows**
+Projekt si cez Git stiahneš pomocou príkazu:  
+**Windows**  
 ```  
 cd <priečinok, kde sa ti uložia súbory>
 git clone https://github.com/tkmk-debug/WebYa.git/  
 ```  
 **MacOS**
 ```  
-open <tvoj priecinok>
+open <priečinok, kde sa ti uložia súbory>
 git clone https://github.com/tkmk-debug/WebYa.git/
 ``` 
 **Linux**
 ```  
-cd <tvoj priecinok>
+cd <priečinok, kde sa ti uložia súbory>
 git clone https://github.com/tkmk-debug/WebYa.git/
 ```   
 
