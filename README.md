@@ -15,7 +15,7 @@ Ak nájdeš nápad na zlepšenie, pošli **Pull Request.**
 
 ---  
 
-###Projekt si cez Git stiahneš pomocou príkazu:  
+### Projekt si cez Git stiahneš pomocou príkazu:  
 **Windows**  
 ```  
 cd <priečinok, kde sa ti uložia súbory>
