@@ -15,7 +15,7 @@ Ak nájdeš nápad na zlepšenie, pošli **Pull Request.**
 
 ---  
 
-Projekt si cez Git stiahneš pomocou príkazu:  
+###Projekt si cez Git stiahneš pomocou príkazu:  
 **Windows**  
 ```  
 cd <priečinok, kde sa ti uložia súbory>
@@ -30,7 +30,9 @@ git clone https://github.com/tkmk-debug/WebYa.git/
 ```  
 cd/dir/ls <priečinok, kde sa ti uložia súbory>
 git clone https://github.com/tkmk-debug/WebYa.git/
-```   
+```  
+---
+
 
 
 
