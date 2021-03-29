@@ -14,17 +14,17 @@ __Git clone vytvorí priečinok s názvom__ **WebYa**
 **Windows**  
 ```  
 cd <priečinok, kde sa ti uložia súbory>
-git clone https://github.com/tkmk-debug/WebYa.git/  
+git clone https://github.com/tkmk-debug/WebYa.git  
 ```  
 **MacOS**
 ```  
 open <priečinok, kde sa ti uložia súbory>
-git clone https://github.com/tkmk-debug/WebYa.git/
+git clone https://github.com/tkmk-debug/WebYa.git
 ``` 
 **Linux**
 ```  
 cd/dir/ls <priečinok, kde sa ti uložia súbory>
-git clone https://github.com/tkmk-debug/WebYa.git/
+git clone https://github.com/tkmk-debug/WebYa.git
 ```  
 ---  
 ## ODKAZY  
