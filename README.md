@@ -28,7 +28,7 @@ git clone https://github.com/tkmk-debug/WebYa.git/
 ``` 
 **Linux**
 ```  
-cd <priečinok, kde sa ti uložia súbory>
+cd/dir/ls <priečinok, kde sa ti uložia súbory>
 git clone https://github.com/tkmk-debug/WebYa.git/
 ```   
 
