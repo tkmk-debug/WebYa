@@ -33,9 +33,6 @@ git clone https://github.com/tkmk-debug/WebYa.git/
 cd/dir/ls <priečinok, kde sa ti uložia súbory>
 git clone https://github.com/tkmk-debug/WebYa.git/
 ```  
----
-
-
-
-
-
+---  
+_PS :_  
+_Určite tú stránku oprav je to dosť slabé :)_
