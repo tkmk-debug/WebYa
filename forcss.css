@@ -1,0 +1,18 @@
+body {
+  background-color: gold;
+}
+h2 {
+  text-align:center;
+}
+h3 {
+  text-align:center;
+}
+.cs {
+  text-align:center;
+}
+button {
+  border-radius: 20px;
+  background-color: black;
+  color:red;
+  border:solid 10px black;
+}

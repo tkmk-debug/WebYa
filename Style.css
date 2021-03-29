@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(gold, red, orange);
+}
+em {
+  border-radius: 20px;
+  font-size: 50px;
+  border: solid 15px black;
+}
+.linkedini {
+  border-radius: 5px;
+  border: solid 10px blue;
+}
+.md {
+  text-align: center;
+  background-color: yellowgreen;
+  color: red;
+}
+.fbutton {
+  border-radius: 20px;
+  background-color:greenyellow;
+  color:red;
+  border:solid 8px greenyellow;
+}
+.sil {
+  border-radius: 20px;
+  background-color:black;
+  color:red;
+  border:solid 10px black;
+}
