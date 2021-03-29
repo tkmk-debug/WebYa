@@ -7,13 +7,6 @@ Ak nájdeš nápad na zlepšenie, pošli **Pull Request.**
 
 ---
 
-## ODKAZY  
-      
-**[YouTube](https://www.youtube.com/channel/UCYlSDA9BGGL3rtkl1OF9IdA)**  
-**[Discord](https://bit.ly/MojDiscordServer)**  
-**[Hotový Web](https://mycinematics.wordpress.com/)**  
-
----  
 
 ### Projekt si cez Git stiahneš pomocou príkazu:  
 __Git clone vytvorí priečinok s názvom__ **WebYa**
@@ -33,6 +26,13 @@ git clone https://github.com/tkmk-debug/WebYa.git/
 cd/dir/ls <priečinok, kde sa ti uložia súbory>
 git clone https://github.com/tkmk-debug/WebYa.git/
 ```  
+---  
+## ODKAZY  
+      
+**[YouTube](https://www.youtube.com/channel/UCYlSDA9BGGL3rtkl1OF9IdA)**  
+**[Discord](https://bit.ly/MojDiscordServer)**  
+**[Hotový Web](https://mycinematics.wordpress.com/)**  
+
 ---  
 _PS :_  
 _Určite tú stránku oprav je to dosť slabé :)_
