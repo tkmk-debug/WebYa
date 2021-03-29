@@ -16,7 +16,7 @@ Ak nájdeš nápad na zlepšenie, pošli **Pull Request.**
 ---  
 
 ### Projekt si cez Git stiahneš pomocou príkazu:  
-__Git clone vytvorí priečinok s názvom__ **YA**
+__Git clone vytvorí priečinok s názvom__ **WebYa**
 ---
 **Windows**  
 ```  
