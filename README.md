@@ -13,4 +13,7 @@ Ak nájdeš nápad na zlepšenie, pošli **Pull Request.**
 **[Discord](https://bit.ly/MojDiscordServer)**  
 **[Hotový Web](https://mycinematics.wordpress.com/)**  
 
----
+---  
+
+Projekt si cez Git stiahneš pomocou príkazu:
+
