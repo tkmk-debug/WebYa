@@ -1,4 +1,4 @@
-# MojWeb ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/PaperMC/Paper/Build%20Paper/master)  
+# MojWeb ![GitHub Workflow Status (branch)](https://raw.githubusercontent.com/dwyl/repo-badges/master/highresPNGs/build-passing.png)
 
 Ahoj!  
 Vitaj na **GitHub** stránke mojej _Web Stránky_.  
