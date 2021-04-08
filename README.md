@@ -1,4 +1,5 @@
-# MojWeb ![GitHub Workflow Status (branch)](https://raw.githubusercontent.com/dwyl/repo-badges/master/highresPNGs/build-passing.png)
+# MojWeb  
+![GitHub Workflow Status (branch)](https://raw.githubusercontent.com/dwyl/repo-badges/master/highresPNGs/build-passing.png)
 
 Ahoj!  
 Vitaj na **GitHub** stránke mojej _Web Stránky_.  
