@@ -4,7 +4,7 @@
 Ahoj!  
 Vitaj na **GitHub** stránke mojej _Web Stránky_.  
 Je to **Open-Source** projekt, ktorý _môžeš_ upravovať.  
-Ak nájdeš nápad na zlepšenie, pošli **Pull Request.**  
+Ak nájdeš nápad na zlepšenie, pošli **Pull Request.**   
 
 ---
 
